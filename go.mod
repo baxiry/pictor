@@ -1,4 +1,4 @@
-module photos
+module pictor 
 
 go 1.15
 
