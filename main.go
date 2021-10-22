@@ -30,7 +30,7 @@ func main() {
 
 	if retated == "" {
 		for {
-			fmt.Print("\tthe result photo will take some name of source photo\n\tthe source photo will removed. Continue ? (Y/n) ? ")
+			fmt.Print("\tthe result photo will take same name of source photo\n\tthe source photo will removed. Continue ? (Y/n) ? ")
 			var answr string
 			fmt.Scanln(&answr)
 			if answr == "n" {
