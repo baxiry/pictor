@@ -17,7 +17,7 @@ func main() {
 
 	cmd1 := cmds[1]
 	if cmd1 != "retate" {
-		fmt.Println("\tthere is just \"retate\" command right now.\n\twe provid a mor usful commands soon")
+		fmt.Println("\tthere is just \"retate\" command right now.\n\twe will provid a mor usful commands soon")
 		os.Exit(1)
 
 	}
